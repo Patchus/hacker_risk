@@ -2,6 +2,8 @@
 Risk
 -----------------------
 
+This is a pretty good way to teach forking, cloning, commiting and  pushing; But just IMO honestly
+
 Objects and methods for playing the boardgame Risk
 """
 from setuptools import setup, find_packages
